@@ -1,0 +1,55 @@
+:root {
+    background-color: rgb(42,43,43);
+}
+
+@keyframes fadeIn {
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+#about {
+    font-size: 0.2rem;
+    font-family: "Monaco";
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    border: none;
+    transform: scale(6);
+    animation: fadeIn 500ms;
+    background-color: rgb(42,43,43);
+    margin-left: 41.5%;
+    margin-top: 4%;
+}
+
+#about:hover {
+    color: #ececec51; 
+    background-color: #474747;
+}
+
+#home {
+    
+}
+
+#home:hover {
+    color: #ececec51;
+    background-color: #474747;
+}
+
+#projects {
+    font-size: 0.2rem;
+    font-family: "Monaco";
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    border: none;
+    transform: scale(6);
+    animation: fadeIn 500ms;
+    background-color: rgb(42,43,43);
+
+    margin-left: 12.5%; 
+}
+
+#projects:hover {
+    color: #ececec51;
+    background-color: #474747;
+}

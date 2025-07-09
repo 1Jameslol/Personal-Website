@@ -1,0 +1,44 @@
+/* text */
+
+#text2 {
+    font-family: "Monaco";
+    color: rgb(194, 194, 194);
+    margin-right: 30.8%;      
+    text-align: center;
+    margin-top: 10.5vh;         
+    margin-left: 30%;      
+    margin-bottom: 4.2vh;   
+}
+
+/* text2 */
+
+#text1 {
+    font-family: "Monaco";
+    color: rgb(194, 194, 194);
+    margin-right: 30.8%;      
+    margin-top: 3%;
+    text-align: center;    
+    margin-left: 30%;      
+    margin-bottom: 1.2vh;   
+}
+
+/* image */
+
+#hello {
+    border-radius: 10000px;
+    margin-left: 44.25%; 
+    margin-bottom: 2.8vh; 
+    max-width: 10%;
+    max-height: 100%;
+}
+
+/* link */
+
+a {
+    margin-left: 45.9%; 
+    color: lightgreen;
+}
+
+#projects {
+    background-color: #474747;
+}

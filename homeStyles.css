@@ -1,0 +1,12 @@
+h1 {
+    font-family: "Monaco";
+    color: red;
+    margin-left: 20%; 
+    margin-right: 20%; 
+    margin-top: 15%;     
+    text-align: center;
+}
+
+#home {
+    background-color: #474747;
+}
