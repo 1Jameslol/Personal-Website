@@ -45,8 +45,6 @@
     max-height: 100%;
 }
 
-
-
 /* standardlink */
 
 a {
@@ -58,6 +56,11 @@ a {
 
 #linkPong {
     margin-left: 46.5%; 
+    color: lightgreen;
+}
+
+#linkMP {
+    margin-left: 45.6%; 
     color: lightgreen;
 }
 
